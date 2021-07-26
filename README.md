@@ -11,3 +11,5 @@
 - ✉️ peinadoginesd@gmail.com
 
 - ℹ️ My LinkedIn: <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="es_ES" data-type="horizontal" data-theme="light" data-vanity="daniel-peinado-ginés-874a91214"><a class="LI-simple-link" href='https://es.linkedin.com/in/daniel-peinado-gin%C3%A9s-874a91214?trk=profile-badge'>Daniel Peinado Ginés</a></div>
+
+www.linkedin.com/in/daniel-peinado-ginés-874a91214
