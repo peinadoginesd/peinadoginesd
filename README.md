@@ -10,4 +10,4 @@
 
 - ✉️ peinadoginesd@gmail.com
 
-- ℹ️ [My LinkedIn](www.linkedin.com/in/daniel-peinado-ginés-874a91214)
+- ℹ️ [My LinkedIn](https://www.linkedin.com/in/daniel-peinado-ginés-874a91214)
